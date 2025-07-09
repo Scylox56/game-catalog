@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
-// helper function to refresh game list
+// helper function to refresh game list 
 function fetchGames() {
   if (window.fetchGames) {
     window.fetchGames();
