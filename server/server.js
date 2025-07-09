@@ -14,7 +14,7 @@ app.use(express.static('public'));
 // routes
 app.use('/api/games', gamesRouter);
 
-// db connection
+// db connection 
 mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true
