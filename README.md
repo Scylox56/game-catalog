@@ -12,8 +12,6 @@ A modern game catalog application with CRUD functionality, built with Node.js, E
   - Animated game cards
   - Smooth modal transitions
   - Hover effects
-- **Social Integration** - Developer links in footer
-- **Search Ready** - UI prepared for search functionality
 
 ## 🛠️ Tech Stack
 
