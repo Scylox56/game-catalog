@@ -1,7 +1,7 @@
 
 const gamesContainer = document.getElementById('gamesContainer');
 
-// fetch and show games
+// fetch and show games 
 async function fetchGames() {
   try {
     const response = await fetch('/api/games');
