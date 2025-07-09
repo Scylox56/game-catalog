@@ -42,7 +42,7 @@ router.post('/', async (req, res) => {
   }
 });
 
-// update game
+// update game 
 router.patch('/:id', async (req, res) => {
   try {
     const game = await Game.findByIdAndUpdate(
