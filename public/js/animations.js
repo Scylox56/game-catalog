@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 10);
   }
   
-  // Hide modal with animation
+  // Hide modal with animation 
   function hideModal() {
     modalContent.classList.remove('scale-100', 'opacity-100');
     modalContent.classList.add('scale-95', 'opacity-0');
