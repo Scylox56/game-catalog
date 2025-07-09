@@ -46,7 +46,7 @@ A modern game catalog application with CRUD functionality, built with Node.js, E
 
 ## 📂 Project Structure
 
-game-catalog/
+game-catalog/ 
 ├── server/           # Backend code
 │   ├── models/       # MongoDB schemas
 │   ├── routes/       # API endpoints
