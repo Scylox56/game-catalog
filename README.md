@@ -46,22 +46,24 @@ A modern game catalog application with CRUD functionality, built with Node.js, E
 
 ## 📂 Project Structure
 
+```text
 game-catalog/
-├── server/           # Backend code
-│ ├── models/         # MongoDB schemas
-│ │ └── Game.js       # Game model
-│ ├── routes/         # API endpoints
-│ │ └── games.js      # Game routes
-│ └── server.js       # Express server
-├── public/           # Frontend assets
-│ ├── css/
-│ │ └── styles.css    # Custom styles
-│ ├── js/
-│ │ ├── main.js       # Core functionality
-│ │ ├── gameForm.js   # Form handling
-│ │ └── animations.js # UI effects
-│ └── index.html      # Main page
-├── .env              # Environment config
-├── .gitignore        # Ignored files
-└── package.json      # Dependencies
+├── server/               # Backend code
+│   ├── models/           # MongoDB schemas
+│   │   └── Game.js       # Game model
+│   ├── routes/           # API endpoints
+│   │   └── games.js      # Game routes
+│   └── server.js         # Express server
+├── public/               # Frontend assets
+│   ├── css/
+│   │   └── styles.css    # Custom styles
+│   ├── js/
+│   │   ├── main.js       # Core functionality
+│   │   ├── gameForm.js   # Form handling
+│   │   └── animations.js # UI effects
+│   └── index.html        # Main page
+├── .env                  # Environment config
+├── .gitignore            # Ignored files
+└── package.json          # Dependencies
+```
 
