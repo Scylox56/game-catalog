@@ -82,7 +82,7 @@ body {
   text-shadow: 0 0 10px rgba(59, 130, 246, 0.7);
 }
 
-/* Pulse Animation */
+/* Pulse Animation*/
 @keyframes pulse {
   0%, 100% {
     opacity: 1;
